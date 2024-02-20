@@ -1,0 +1,17 @@
+C:\Users\naras\Documents\A\201 WebAPI\BussinessLayer\bin\Debug\net6.0\BussinessLayer.deps.json
+C:\Users\naras\Documents\A\201 WebAPI\BussinessLayer\bin\Debug\net6.0\BussinessLayer.dll
+C:\Users\naras\Documents\A\201 WebAPI\BussinessLayer\bin\Debug\net6.0\BussinessLayer.pdb
+C:\Users\naras\Documents\A\201 WebAPI\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\naras\Documents\A\201 WebAPI\BussinessLayer\obj\Debug\net6.0\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naras\Documents\A\201 WebAPI\BussinessLayer\obj\Debug\net6.0\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\naras\Documents\A\201 WebAPI\BussinessLayer\obj\Debug\net6.0\BussinessLayer.AssemblyInfo.cs
+C:\Users\naras\Documents\A\201 WebAPI\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\naras\Documents\A\201 WebAPI\BussinessLayer\obj\Debug\net6.0\BussinessLayer.dll
+C:\Users\naras\Documents\A\201 WebAPI\BussinessLayer\obj\Debug\net6.0\refint\BussinessLayer.dll
+C:\Users\naras\Documents\A\201 WebAPI\BussinessLayer\obj\Debug\net6.0\BussinessLayer.pdb
+C:\Users\naras\Documents\A\201 WebAPI\BussinessLayer\obj\Debug\net6.0\ref\BussinessLayer.dll
+C:\Users\naras\Documents\A\201 WebAPI\BussinessLayer\bin\Debug\net6.0\BussinessLayer.runtimeconfig.json
+C:\Users\naras\Documents\A\201 WebAPI\BussinessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\naras\Documents\A\201 WebAPI\BussinessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\naras\Documents\A\201 WebAPI\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.CopyComplete
+C:\Users\naras\Documents\A\201 WebAPI\BussinessLayer\obj\Debug\net6.0\BussinessLayer.genruntimeconfig.cache
